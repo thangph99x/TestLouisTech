@@ -21,7 +21,7 @@ In order to run the provided solution the following software will need to be ins
 ### Setup
 
 1. Fork and clone the repository or download and extract the ZIP file [here.](https://github.com/netconstruct/react-developer-assessment/archive/master.zip)
-2. Open the repository folder and install the dependencies using `yarn` or `npm install`.
+2. Open the repository folder and install the dependencies using `yarn` or `npm install --legacy-peer-deps`.
 3. Run the development server using `yarn start` or `npm start`.
 
 The repository contains a `App.tsx` file inside the `components` folder; this should be the starting point for your exercise. Please feel free to create more components to structure your app in a logical manner.
